@@ -1,0 +1,8 @@
+{
+  "name": "dependabot-14698-npmrc-egress",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "nodemailer": "6.9.0"
+  }
+}
